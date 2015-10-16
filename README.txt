@@ -1,1 +1,1 @@
-Test
+export PATH="/h/d9/q/tpi11dod/anaconda3/bin/:$PATH"
